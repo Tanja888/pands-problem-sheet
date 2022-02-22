@@ -15,3 +15,10 @@ ___
 
     Solution to the Weekly Task 04
         Inputs positive integers and outputs results based on the Collatz Conjecture
+
+
+    **weekday.py**
+
+    Solution to the Weekly Task 05
+        Whether or not today is a weekday 
+        

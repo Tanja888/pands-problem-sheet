@@ -1,4 +1,4 @@
-# Collatz 
+# Weekly Task 04 - Collatz 
 # Author: Tanja Juric
 
 number = int(input("Please enter a positive integer: "))
