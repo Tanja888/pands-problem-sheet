@@ -21,4 +21,10 @@ ___
 
     Solution to the Weekly Task 05
         Whether or not today is a weekday 
+
+__
+    squareroot.py
+
+        Solution to the Weekly Task 06
+            Creating a square root function 
         
