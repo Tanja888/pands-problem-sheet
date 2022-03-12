@@ -1,5 +1,5 @@
 # pands-problem-sheet
-    ##bmi.py
+    ## bmi.py
 
     Solution to the Weekly Task 02
         Calculates the BMI (Body Mass Index)
@@ -11,7 +11,7 @@ ___
         Inputs string and outputs every second letter in reverse order
 
 
-    ##collatz.py##
+    ## collatz.py ##
 
     Solution to the Weekly Task 04
         Inputs positive integers and outputs results based on the Collatz Conjecture
