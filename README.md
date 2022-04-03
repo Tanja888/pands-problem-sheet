@@ -43,10 +43,10 @@ ___
 ## weekday.py
 
 ### Solution to the Weekly Task 05
-Whether or not today is a weekday :cocktail:
+Whether or not today is a weekday :tropical_drink:
 
 ### References
-Took the function from Stackoverflow to get [what day is today][7].
+Took the function from Stackoverflow to get [what day is today][7].  
 [%A][8] shows full weekday name.
 
 [7]: https://stackoverflow.com/questions/8380389/how-to-get-day-name-from-datetime
