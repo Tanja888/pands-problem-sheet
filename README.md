@@ -56,7 +56,7 @@ ___
 ## squareroot.py 
 
 ### Solution to the Weekly Task 06
-Creating a square root function using Newton method
+Creating a square root function using Newton method.  
 The program takes in a positive floating-point number as input and outputs an approximation of its square root.
 
 ### References
@@ -65,10 +65,19 @@ Used Hackernoon to find the function for getting square root using [Newton metho
 [9]: https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
 
 ___
-##  es.py
+## es.py
 
-        Solution to the Weekly Task 07
-            Reads in a text file and outputs the number of e's it contains
+### Solution to the Weekly Task 07
+Reads in a text file and outputs the number of e's it contains. :mag: :e: :detective:
+
+### References
+To read in a text file I added [encodinf="utf-8"][10]  
+Found on Stackoverflow how to do the [frequency of the letter][11]
+The [article][12] I used in the code as text file.
+
+[10]: https://stackoverflow.com/questions/9233027/unicodedecodeerror-charmap-codec-cant-decode-byte-x-in-position-y-character
+[11]: https://stackoverflow.com/questions/22694244/counting-specific-letters-or-symbols-in-a-text-file-in-python
+[12]: https://www.washingtonpost.com/world/2022/03/09/letter-z-russia-symbol-pro-war/
 
 ___   
 ##  plottask.py
