@@ -29,14 +29,15 @@ ___
 ##  collatz.py 
 
 ###    Solution to the Weekly Task 04
-Inputs positive integers and outputs results based on the Collatz Conjecture.   
+Inputs positive integers and outputs results based on the Collatz Conjecture   
 If the entered value is even we divide it by 2, if it is odd we multiply it by 3 and add 1.  
-Program ends when the value reaches 1.
+Program ends when the value reaches 1. :abacus:
 
 ###    References
 Checked Codingem on how to [print the result on the same line][6].
 
 [6]: https://www.codingem.com/python-print-on-the-same-line/
+![Comic Collatz](https://imgs.xkcd.com/comics/collatz_conjecture.png)
 
 ___
 ##  weekday.py
