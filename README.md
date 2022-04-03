@@ -1,10 +1,10 @@
-## pands-problem-sheet
-###  bmi.py 
+# pands-problem-sheet
+##  bmi.py 
 
-####    Solution to the Weekly Task 02
+###    Solution to the Weekly Task 02
 Calculates the BMI (Body Mass Index) :weight_lifting:
 
-####    References
+###    References
 For this task I used Stackoverflow to get the [BMI calculator][1].
 I checked Codegrepper to [round the result][2].  
 
@@ -14,8 +14,17 @@ I checked Codegrepper to [round the result][2].
 ___
 ##  secondstring.py 
 
-    Solution to the Weekly Task 03
-        Inputs string and outputs every second letter in reverse order
+###    Solution to the Weekly Task 03
+Inputs string and outputs every second letter in reverse order :arrow_left:
+
+###    References
+Checked W3Schools on [how to reverse a string][3]
+Was wondering [what is slicing][4] and what does [double colon][5] stand for.
+
+
+[3]: https://www.w3schools.com/python/python_howto_reverse_string.asp
+[4]: https://www.w3schools.com/python/ref_func_slice.asp
+[5]: https://www.askpython.com/python/examples/colon-in-python
 
 ___
 ##  collatz.py 
