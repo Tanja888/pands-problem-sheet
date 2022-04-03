@@ -68,11 +68,11 @@ ___
 ## es.py
 
 ### Solution to the Weekly Task 07
-Reads in a text file and outputs the number of e's it contains. :mag: :e: :detective:
+Reads in a text file and outputs the number of e's it contains :detective:
 
 ### References
 To read in a text file I added [encodinf="utf-8"][10]  
-Found on Stackoverflow how to do the [frequency of the letter][11]
+Found on Stackoverflow how to do the [frequency of the letter][11]  
 The [article][12] I used in the code as text file.
 
 [10]: https://stackoverflow.com/questions/9233027/unicodedecodeerror-charmap-codec-cant-decode-byte-x-in-position-y-character
