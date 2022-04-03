@@ -1,10 +1,10 @@
-# pands-problem-sheet
-##  bmi.py 
+## pands-problem-sheet
+###  bmi.py 
 
-###    Solution to the Weekly Task 02
+####    Solution to the Weekly Task 02
 Calculates the BMI (Body Mass Index) :weight_lifting:
 
-###    References
+####    References
 For this task I used Stackoverflow to get the [BMI calculator][1].
 I checked Codegrepper to [round the result][2].  
 
