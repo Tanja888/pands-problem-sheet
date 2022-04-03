@@ -1,4 +1,3 @@
-
 # Weekly Task 02 - Calculating BMI
 # Author: Tanja Juric
 

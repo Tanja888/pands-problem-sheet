@@ -1,4 +1,3 @@
-
 # Weekly Task 03 - Inputs string and outputs every second letter in reverse order
 # Author: Tanja Juric
 

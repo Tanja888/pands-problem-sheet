@@ -14,6 +14,9 @@ while number != 1:
     else: 
         result = (number * 3) + 1
 
-    print(result)
+    print(result, '', end = '') # made some changes here to get the horizontal output
     number = result
 print ("The End") # when the result reached False (= 1) print 'The End' because the loop ended
+
+
+
