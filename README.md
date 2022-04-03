@@ -18,9 +18,8 @@ ___
 Inputs string and outputs every second letter in reverse order :arrow_left:
 
 ###    References
-Checked W3Schools on [how to reverse a string][3]
-Was wondering [what is slicing][4] and what does [double colon][5] stand for.
-
+Checked W3Schools on [how to reverse a string][3] and what is [slicing][4].  
+Was wondering what does [double colon][5] stand for, so I asked Python.
 
 [3]: https://www.w3schools.com/python/python_howto_reverse_string.asp
 [4]: https://www.w3schools.com/python/ref_func_slice.asp
