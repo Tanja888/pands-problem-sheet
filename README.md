@@ -56,7 +56,13 @@ ___
 ## squareroot.py 
 
 ### Solution to the Weekly Task 06
-Creating a square root function 
+Creating a square root function using Newton method
+The program takes in a positive floating-point number as input and outputs an approximation of its square root.
+
+### References
+Used Hackernoon to find the function for getting square root using [Newton method][9]
+
+[9]: https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
 
 ___
 ##  es.py

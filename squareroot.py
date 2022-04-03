@@ -1,10 +1,7 @@
-# Creating a square root function 
+# Weekly Task 06 - Creating a square root function 
 # Author: Tanja Juric
 
-# I need to check the Newton method
-
-# I had difficulties with this task, I didn't really get it but here is the solution I found here:
-# URL https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
+# I had difficulties with this task, I didn't really get it but found the solution.
 
 x = float(input("Please enter a positive number: "))
 
