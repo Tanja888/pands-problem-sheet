@@ -56,25 +56,6 @@ plt.ylim(ymin=0.0)
 
 plt.show()
 
-# Little bit on plotting:
-# URL https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
-# Wanted to remove outside borders aka spines:
-# URL https://stackoverflow.com/questions/22082111/how-to-despine-a-matplotlib-and-seaborn-axes
-# Was annoyed with x label not showing properly so I used subplot adjust; it got 'clipped':
-# URL https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplots_adjust.html
-# URL https://matplotlib.org/stable/tutorials/intermediate/tight_layout_guide.html
-# Adding labels to the lines and changing the ticks:
-# https://towardsdatascience.com/a-beginners-guide-to-plotting-fivethrityeight-like-visualizations-5b63d3f3ddd0
-# On fontsize of ticks:
-# URL https://stackoverflow.com/questions/6390393/matplotlib-make-tick-labels-font-size-smaller
-# To move a title:
-# https://matplotlib.org/stable/gallery/text_labels_and_annotations/titles_demo.html
-# To move 0 to the start of the axes:
-# URL https://stackoverflow.com/questions/44395838/how-to-make-0-0-on-matplotlib-graph-on-the-bottom-left-corner
-# Coordinate formatter:
-# URL https://stackoverflow.com/questions/65180000/matplotlib-mouse-cursor-coordinates-not-shown-for-empty-tick-labels
-# To change the font for everything:
-# URL https://www.statology.org/matplotlib-change-font/
 # Officially fell into a rabbit hole with this task
 
 
