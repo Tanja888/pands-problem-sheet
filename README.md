@@ -29,7 +29,7 @@ ___
 ## collatz.py 
 
 ### Solution to the Weekly Task 04
-Inputs positive integers and outputs results based on the Collatz Conjecture  
+Inputs positive integers and outputs results based on the Collatz Conjecture.  
 If the entered value is even we divide it by 2, if it is odd we multiply it by 3 and add 1.  
 Program ends when the value reaches 1. :abacus: 
 
@@ -60,7 +60,7 @@ Creating a square root function using Newton method.
 The program takes in a positive floating-point number as input and outputs an approximation of its square root.
 
 ### References
-Used Hackernoon to find the function for getting square root using [Newton method][9]
+Used Hackernoon to find the function for getting square root using [Newton method][9].
 
 [9]: https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
 
@@ -72,7 +72,7 @@ Reads in a text file and outputs the number of e's it contains :detective:
 
 ### References
 To read in a text file I added [encodinf="utf-8"][10]  
-Found on Stack Overflow how to do the [frequency of the letter][11]  
+Found on Stack Overflow how to do the [frequency of the letter][11].  
 The [article][12] I used in the code as text file.
 
 [10]: https://stackoverflow.com/questions/9233027/unicodedecodeerror-charmap-codec-cant-decode-byte-x-in-position-y-character
@@ -83,15 +83,16 @@ ___
 ## plottask.py
 
 ### Solution to the Weekly Task 08
-Displays a plot of the functions f(x)=x, g(x)=x**2 and h(x)=x**3 in the range [0,4] on one set of axes :chart_with_upwards_trend:
+Displays a plot of the functions f(x)=x, g(x)= x ** 2 and h(x)= x ** 3 in the range [0,4] on one set of axes :chart_with_upwards_trend:
 
 ### References
 On [plotting][13] from GeeksforGeeks.  
 From Stack Overflow, how to [remove outside borders aka spines][14].  
-Used [subplot adjust][15] and [changed the layout][16] because x label got 'clipped' and wasn't showing properly.  On [adding labels to the lines and changing the ticks][17].  
+Used [subplot adjust][15] and [changed the layout][16] because x label got 'clipped' and wasn't showing properly.  
+On [adding labels to the lines and changing the ticks][17].  
 [Changing fontsize of ticks][18] and [moving the title][19].  
 [Moving zero][20] to the start of the axis.  
-[Formatting coordinates][21] for mouse cursor and [changing the font][22]
+[Formatting coordinates][21] for mouse cursor and [changing the font][22].
 
 [13]: https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
 [14]: https://stackoverflow.com/questions/22082111/how-to-despine-a-matplotlib-and-seaborn-axes
