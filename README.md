@@ -56,7 +56,7 @@ ___
 ## squareroot.py 
 
 ### Solution to the Weekly Task 06
-Creating a square root function using Newton method.  
+Creating a square root function using Newton method. :apple: 
 The program takes in a positive floating-point number as input and outputs an approximation of its square root.
 
 ### References
