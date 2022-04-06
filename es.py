@@ -1,9 +1,14 @@
 # Weekly Task 07 - Reads in a text file and outputs the number of e's it contains
 # Author: Tanja Juric
 
-# Take the filename from an argument on the command line - didn't check this yet, wanted to count the e's first
+# Takes the filename from an argument on the command line
 
-filename = 'warSymbol.txt'
+import sys
+
+print(sys.argv)
+
+filename = sys.argv[1]     #realized this from a lecture on errors
+#filename = 'warSymbol.txt'
 with open(filename, 'rt', encoding="utf-8") as f:
    data = f.read()
    #print(data)
@@ -13,7 +18,7 @@ with open(filename, 'rt', encoding="utf-8") as f:
            freq = freq + 1
 print(freq)
 
-# From the same URL, shorter way of calculating the frequency:
+# From the same URL (Stack Overflow), shorter way of calculating the frequency:
 
 with open ("warSymbol.txt", "rt", encoding="utf-8") as f:
     data = f.read()
